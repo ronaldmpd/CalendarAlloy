@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="ImageViewHeader"></ImageView>
+		<Label id="labelCalendarsTitle">Calendars</Label>
+		<Label id="label">Hello, World</Label>
+		
+		<Label id="labelToday">Today</Label>
+		<Label id="labelCalendars">Calendars</Label>
+		<Label id="labelInbox" onClick="doClickInbox">Inbox</Label>
+		
+		<ImageView id="ImageViewFooter"></ImageView>
+	</Window>
+</Alloy>

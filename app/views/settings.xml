@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="ImageViewHeader"></ImageView>
+		<Label id="labelSettingsTitle">Settings</Label>
+		<Label id="labelDone" onClick="doClickDone">Done</Label>
+		
+		<Label id="label" >Hello, World</Label>
+		
+	</Window>
+</Alloy>
